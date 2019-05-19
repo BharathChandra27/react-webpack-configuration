@@ -13,7 +13,8 @@ You will also see any lint errors in the console.
 
 ### `npm run build` 
 
-The webpack builds this application for production.
+The webpack builds this application for production.<br>
+It creates a `dist` folder in root directory.
 
 ###  `npm install`
 
